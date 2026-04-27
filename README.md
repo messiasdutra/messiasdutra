@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Messias Dutra, tenho 22 anos e sou natural de Fortaleza. Sou tecnólogo em de Análise e Desenvolvimento de Sistemas na Faculdade Multiversa e atualmente estudo algumas tecnologias conforme as informações abaixo. 
+Me chamo Messias Dutra, tenho 22 anos e sou natural de Fortaleza. Sou tecnólogo em Análise e Desenvolvimento de Sistemas na Faculdade Multiversa e atualmente estudo algumas tecnologias conforme as informações abaixo. 
 
 <p align="left">
             <a href="https://github.com/messiasdutra">
